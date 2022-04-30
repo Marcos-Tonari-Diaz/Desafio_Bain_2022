@@ -1,2 +1,3 @@
-# Desafio_Bain_Os_Normalizados
+# Desafio Bain 2022
 Datathon Desafio Bain 2022
+Equipe "Os Normalizados"
